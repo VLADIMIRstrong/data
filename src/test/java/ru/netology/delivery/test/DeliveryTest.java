@@ -20,7 +20,7 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
 class DeliveryTest {
-    private static Faker faker;
+
 
 
     @BeforeEach
